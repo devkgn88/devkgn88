@@ -1,16 +1,19 @@
-## Hi there 👋
+<div style="text-align:center;">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevkgn88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 
-<!--
-**devkgn88/devkgn88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Skills
+* Back-end : Java, MariaDB, Servlet(JSP), Spring, MyBatis, JPA, Maven, Gradle
+* Front-end : HTML5, CSS3, Bootstrap, Vanilla JS, jQuery, JSTL
+* Others : Git & Github, AWS, Docker
 
-Here are some ideas to get you started:
+### Experience
+#### (Jan.2021 - May.2023)Software Engineer
+* Developing Network Security Soution for Power Station
+* Block access of unknown port and record history
+* Create Enterprise Resource Planning System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### (May.2023 - Present) Cloud Based Java/Spring Programming
+* Teaching omnidirectional Skills for developing Java Web Application
+* Work closely with a students who want to become Java Developer
+* Run 30 students and Lead Projects Every 6 Months 
