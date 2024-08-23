@@ -8,7 +8,7 @@
 * Others : Git & Github, AWS, Docker
 
 ### Experience
-#### (Jan.2021 - May.2023)Software Engineer
+#### (Jan.2021 - May.2023) Software Engineer
 * Developing Network Security Soution for Power Station
 * Block access of unknown port and record history
 * Create Enterprise Resource Planning System
