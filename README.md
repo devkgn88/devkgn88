@@ -18,20 +18,22 @@
 * Java, DB, JDBC, 웹 표준, Servlet/JSP, Spring Boot, AWS, Docker 등
 * 6개월마다 약 25명의 학생들을 대상으로 교육 진행
 
-***
+### 자격
+* 정보처리기사
+* SQL 개발자
+* 훈련교사 3급
+* 리눅스마스터
 
-### Technical Skills
+<!-- ### Technical Skills
 * Back-end : Java, MariaDB, Servlet(JSP), Spring, MyBatis, JPA, Maven, Gradle
 * Front-end : HTML5, CSS3, Bootstrap, Vanilla JS, jQuery, JSTL
 * Others : Git & Github, AWS, Docker
-
 ### Experience
 #### (Jan.2021 - May.2023) Software Engineer
 * Developing Network Security Soution for Power Station
 * Block access of unknown port and record history
 * Create Enterprise Resource Planning System
-
 #### (May.2023 - Present) Cloud Based Java/Spring Programming
 * Teaching omnidirectional Skills for developing Java Web Application
 * Work closely with a students who want to become Java Developer
-* Run 25 students and Lead Projects Every 6 Months 
+* Run 25 students and Lead Projects Every 6 Months -->
