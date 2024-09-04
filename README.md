@@ -2,6 +2,24 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevkgn88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
+### 보유 기술
+* 백엔드 : Java, MariaDB, Servlet(JSP), Spring, MyBatis, JPA, Maven, Gradle
+* 프론트엔드 : HTML5, CSS3, Bootstrap, Vanilla JS, jQuery, JSTL
+* 기타 : Git & Github, AWS, Docker
+
+### 경력
+#### (2021년 1월 - 2023년 5월) 웹개발
+* ICS 제어망 네트워크별 패킷 기반 설비 현황 보안 관리 솔루션
+* 발전소 네트워크 및 IP 자산 관리 시스템(유지보수, 취약점 점검 등)
+* 보안관제 시스템 메타데이터 연동을 통한 자산 관리 시스템
+
+#### (2023년 5월 - 현재) 자바개발자 양성과정
+* BHA(Best HRD Academy) 기관에서 자바 개발자 양성을 위해 필요한 기술 대면 강의
+* Java, DB, JDBC, 웹 표준, Servlet/JSP, Spring Boot, AWS, Docker 등
+* 6개월마다 약 25명의 학생들을 대상으로 교육 진행
+
+***
+
 ### Technical Skills
 * Back-end : Java, MariaDB, Servlet(JSP), Spring, MyBatis, JPA, Maven, Gradle
 * Front-end : HTML5, CSS3, Bootstrap, Vanilla JS, jQuery, JSTL
@@ -16,4 +34,4 @@
 #### (May.2023 - Present) Cloud Based Java/Spring Programming
 * Teaching omnidirectional Skills for developing Java Web Application
 * Work closely with a students who want to become Java Developer
-* Run 30 students and Lead Projects Every 6 Months 
+* Run 25 students and Lead Projects Every 6 Months 
