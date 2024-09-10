@@ -22,7 +22,7 @@
 * 정보처리기사
 * SQL 개발자
 * 훈련교사 3급
-* 리눅스마스터
+* 전자정부프레임워크 교육 수료
 
 <!-- ### Technical Skills
 * Back-end : Java, MariaDB, Servlet(JSP), Spring, MyBatis, JPA, Maven, Gradle
