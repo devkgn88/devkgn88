@@ -13,7 +13,7 @@
 * 발전소 네트워크 및 IP 자산 관리 시스템(유지보수, 취약점 점검 등)
 * 보안관제 시스템 메타데이터 연동을 통한 자산 관리 시스템
 
-#### (2023년 5월 - 현재) 강사
+#### (2023년 5월 - 현재) 훈련교사
 * BHA(Best HRD Academy) 기관에서 클라우드 활용 자바 개발자 양성과정 강의
 * Java, DB, JDBC, 웹 표준, Servlet/JSP, Spring Boot, AWS, Docker 등
 * 6개월마다 약 25명의 학생들을 대상으로 교육 진행
@@ -22,7 +22,7 @@
 * 정보처리기사
 * SQL 개발자
 * 훈련교사 3급
-* 전자정부프레임워크 교육 수료
+* eGovFrame 교육 수료
 
 <!-- ### Technical Skills
 * Back-end : Java, MariaDB, Servlet(JSP), Spring, MyBatis, JPA, Maven, Gradle
