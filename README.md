@@ -1,11 +1,10 @@
 <div style="text-align:center;">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevkgn88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 ### 보유 기술
 * 백엔드 : Java, MariaDB, Servlet(JSP), Spring, MyBatis, JPA, Maven, Gradle
-* 프론트엔드 : HTML5, CSS3, Bootstrap, Vanilla JS, jQuery, JSTL
-* 기타 : Git & Github, AWS, Docker
+* 프론트엔드 : HTML5, CSS3, Vanilla JS, jQuery, JSTL
+* 기타 : Git & Github, AWS, Docker, Jenkins, Git Actions
 
 ### 경력
 #### (2021년 1월 - 2023년 5월) 웹개발자
@@ -23,6 +22,7 @@
 * SQL 개발자
 * 훈련교사 3급
 * eGovFrame 교육 수료
+* 리눅스마스터 2급
 
 <!-- ### Technical Skills
 * Back-end : Java, MariaDB, Servlet(JSP), Spring, MyBatis, JPA, Maven, Gradle
