@@ -2,8 +2,9 @@
 </div>
 
 ### 보유 기술
-* 백엔드 : Java, MariaDB, Servlet(JSP), Spring, MyBatis, JPA, Maven, Gradle
+* 백엔드 : Java, Spring, Servlet(JSP), Thymeleaf, MyBatis, JPA, Maven, Gradle
 * 프론트엔드 : HTML5, CSS3, Vanilla JS, jQuery, JSTL
+* 데이터베이스 : MariaDB, Oracle, Cassandra, Redis
 * 기타 : Git & Github, AWS, Docker, Jenkins, Git Actions
 
 ### 경력
