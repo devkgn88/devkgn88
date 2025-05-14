@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=안녕하세요~&nbsp;김가남입니다&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=안녕하세요&nbsp;김가남입니다:D&fontSize=60" />
 </div>
 
 ### 👋 About Me
